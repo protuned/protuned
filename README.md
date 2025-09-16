@@ -1,10 +1,26 @@
 # 💫 Hi 👋, I'm Shabinam S N
 **A passionate Full Stack Developer || Freelancer || 
 
-Email Me 👉 ✉️ **shabinamsn@gmail.com** 
 
-- 🔭 **I’m currently working on:** Intern @Yuvatech 
-- 🌱 **I’m currently learning:** AI & ML
+🌱 **Currently Exploring :**
+
+- Advanced concepts in React and Django
+
+- Building projects that solve real-world problems
+
+- Contributing to open-source communities
+- ----------------------------------------
+**🚀 What I Do**
+
+- 🌐 Develop responsive and modern web applications
+
+- 🛠️ Work with frontend & backend frameworks to deliver complete solutions
+
+- 📦 Write clean, maintainable, and reusable code
+
+- 🔍 Continuously improve my skills and stay up-to-date with industry trends
+------------------------------------------------------------------------------
+
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shabinamsn@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
